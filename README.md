@@ -1,2 +1,2 @@
-# ckp08.github.io
+# MS Dhoni Portfolio
 A tribute to Mahendra Singh Dhoni
